@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Daniel Hewlett",
+    "occupation":"university student and application developer",
+    "description":"With a background in computer science and geography, I seek to understand and save our beautiful world through technology",
+    "image":"profilepicture.jpg",
+    "bio":"I am a driven, optimistic computer science graduate with a keen interest in the geospatial sciences. I have proficiency in several fields of computer science, G.I.S, and remote sensing which I hope to apply to solve environmental and spatial problems. I have recently graduated with a BSc Honours Degree in geographic information sciences (GIS) and am currently working as an application developer for a utility management and smart metering solutions provider called Switch Energy. Lastly I love nature, reading, sports, all things ocean related and challenging myself in the kitchen!",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Email : DanielJamesHewlett@gmail.com",
+    "phone": "Telephone number : On request",
+    "address":{
+      "street":"Address : On request",
+      "city":"South Africa",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/daniel.hewlett.56",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"www.linkedin.com/in/daniel-o-sullivan-hewlett-5894621b2",
+        "className":"fa fa-linkedin"
+      },
+
+      {
+        "name":"github",
+        "url":"https://github.com/DanJamesH",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/dannyboyheww",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"The following is a breakdown of my technical and practical skills",
+    "education":[
+      {
+        "school":"University of the Cape Town",
+        "degree":"Bachelor of Science (Honours) in Geographic Information Systems (GIS)",
+        "graduated":"February 2021 - December 2021",
+        "description":"I graduated cum laude with an Honours degree focusing on G.I.S, remote sensing, geospatial data processing and professionalism. As part of the degree, I completed a year-long research project which I received a distinction for and is in the process of being converted into a research paper. The project focused on using satellite imagery (in Google Earth Engine) and drone data (which I assisted in to gather) to observe, map and assess the damage caused to infrastructure and surrounding areas by the April, 2021 Table Mountain Fire. Satellite imagery was used with machine learning classification to create burnt area maps and 3-D models of damaged buildings were created using structure-from-motion photogrammetry. I also reconstructed a timeline for the fire event using Twitter data."
+      },
+      {
+        "school":"University of the Witwatersrand",
+        "degree":"Occuasional student",
+        "graduated":"January 2020 - December 2020",
+        "description":"Completed two additional majors in geography and geospatial sciences in order to pursue my passion of merging geography and computer science."
+      },
+      {
+        "school":"University of the Witwatersrand",
+        "degree":"BSc General (Double Computer Science major)",
+        "graduated":"March 2020",
+        "description":"Majoring in computer science and computational applications has provided me a broad basis in several computing fields including algorithms, software development, machine learning and computer graphics. Additionally a general degree allowed me to take mathematics and geography to a 2nd year level and physics to a 1st year level. Over my three year degree I achieved several first class certificates and best geography student for two consecutive years."
+      },
+      {
+        "school":"Sacred Heart College Marist Observatory",
+        "degree":"IEB National Senior Certificate",
+        "graduated":"2016",
+        "description":"Matriculated with 5 distinctions, the title of head-boy, full colors in athletics and academics and several other commendation, sporting, academic, cultural and service awards (including a silver Duke of Edinburgh award). In addition, I completed the year-long Spirit of Youth leadership program hosted by the Gordon Institute of Business Science (GIBS) in 2015."
+      }
+    ],
+    "work":[
+      {
+        "company":"Switch",
+        "title":"Application developer",
+        "years":"June 2019 - Present",
+        "description":"Switch is an electricity billing provider with an end objective of entering the electricity trading and solutions market. My involvement includes developing React and React-native applications for end-user interaction with the Switch platform. I also have experience with the database (MongoDB) and API levels (Express). Creating these applications include developing with agile methodologies, working in a team environment, using AWS and the app stores for application deployment, interfacing with APIs (and physical IoT devices), deployment with continuous integration and utilizing 3rd party payment services such as Ozow."
+      },
+      {
+        "company":"University of Cape Town",
+        "title":"University tutor",
+        "years":"Feb 2022 - Present",
+        "description":"I am currently a tutor for course entitled 'Programming for GIS' which is a Python based programming course. I run tutoring sessions, mark student work, assist students with content and invigilate tests"
+      },
+      {
+        "company":"Marist Young Adults Johannesburg (MYAJ)",
+        "title":"Coordinator/Volunteer",
+        "years":"January 2018 - December 2018",
+        "description":"The objective of MYAJ is to bring socially conscious youths together to participate in various charitable volunteer programs such as tutoring youths, assisting soup kitchens and spending time at orphanages. For nearly a year, I coordinated (and participated in) monthly community service events and community building events in conjunction with managing the group’s Facebook page and email correspondence. Worked with refugee teenagers assisting them with school work and personal development."
+      },
+      {
+        "company":"Private",
+        "title":"Tutor",
+        "years":"2017",
+        "description":"Tutored an individual Grade 12 level mathematics in order to boost their exam techniques and raise their self-confidence levels. Utilized several mathematics resources including past papers and textbook examples."
+      }
+    ],
+    "skills":[
+      {
+        "name":"QGIS/ArcGIS",
+        "level":"89%"
+      },
+      {
+        "name":"Javascript",
+        "level":"87%"
+      },
+      {
+        "name":"React/React-Native",
+        "level":"85%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"Java/C++",
+        "level":"71%"
+      },
+      {
+        "name":"Blender/ThreeJS",
+        "level":"50%"
+      },
+      {
+        "name":"German",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Switch",
+        "category":"Switch company website",
+        "image":"switch.jpg",
+        "url":"https://switch.org.za"
+      },
+      {
+        "title":"Space Evaders",
+        "category":"A semester computer graphics course project hosted on GitHub",
+        "image":"SpaceEvaders.jpg",
+        "url":"https://markalence.github.io/CGVAssignment/"
+      },
+      {
+        "title":"Rafiki",
+        "category":"A group semester software development project from university",
+        "image":"rafiki.jpg",
+        "url":"https://github.com/DanJamesH/rafiki"
+      },
+      {
+        "title":"Marist Young Adults Johannesburg",
+        "category":"A community of like-minded individuals",
+        "image":"MYAJ.jpg",
+        "url":"https://www.facebook.com/MaristYoungAdultsJohannesburg"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"We will always remember you for your strong leadership on and off the field, your commitment to justice and the ability to give those around you a voice",
+        "user":"Sacred Heart College Marist Observatory"
+      },
+      {
+        "text":"In terms of academic capability, Daniel has proved to be an exceptional student. He has a strong computational background from his undergraduate studies with a notable curiosity around technical and academic work. He is energetic, pleasant, and polite.",
+        "user":"Dr Moreblessings Shoko (UCT) - Supervisor"
+      },
+      {
+        "text":"Daniel is conscientious and has a great capacity to learn. It has been a pleasure working with Daniel this year and, in my opinion, Daniel is an asset to the Geomatics Division, and the university.",
+        "user":"Mignon Wells (UCT) - Chief Technical Office"
+      }
+    ]
+  }
+}
