@@ -43,7 +43,7 @@
     "education":[
       {
         "school":"University of the Cape Town",
-        "degree":"Bachelor of Science (Honours) in Geographic Information Systems (GIS)",
+        "degree":"Bachelor of Science (Honours) in Geographic Information Systems (GIS) (Cum Laude)",
         "graduated":"February 2021 - December 2021",
         "description":"I graduated cum laude with an Honours degree focusing on G.I.S, remote sensing, geospatial data processing and professionalism. As part of the degree, I completed a year-long research project which I received a distinction for and is in the process of being converted into a research paper. The project focused on using satellite imagery (in Google Earth Engine) and drone data (which I assisted in to gather) to observe, map and assess the damage caused to infrastructure and surrounding areas by the April, 2021 Table Mountain Fire. Satellite imagery was used with machine learning classification to create burnt area maps and 3-D models of damaged buildings were created using structure-from-motion photogrammetry. I also reconstructed a timeline for the fire event using Twitter data."
       },
@@ -69,7 +69,7 @@
     "work":[
       {
         "company":"Switch",
-        "title":"Application developer",
+        "title":"Senior application developer",
         "years":"June 2019 - Present",
         "description":"Switch is an electricity billing provider with an end objective of entering the electricity trading and solutions market. My involvement includes developing React and React-native applications for end-user interaction with the Switch platform. I also have experience with the database (MongoDB) and API levels (Express). Creating these applications include developing with agile methodologies, working in a team environment, using AWS and the app stores for application deployment, interfacing with APIs (and physical IoT devices), deployment with continuous integration and utilizing 3rd party payment services such as Ozow."
       },
@@ -77,7 +77,7 @@
         "company":"University of Cape Town",
         "title":"University tutor",
         "years":"Feb 2022 - Present",
-        "description":"I am currently a tutor for course entitled 'Programming for GIS' which is a Python based programming course. I run tutoring sessions, mark student work, assist students with content and invigilate tests"
+        "description":"I am currently a tutor for courses entitled 'Programming for GIS' and 'Spatial Data Infrustructure'. I run tutoring sessions, mark student submissions, assist students with lecture content and invigilate tests."
       },
       {
         "company":"Marist Young Adults Johannesburg (MYAJ)",
@@ -86,10 +86,54 @@
         "description":"The objective of MYAJ is to bring socially conscious youths together to participate in various charitable volunteer programs such as tutoring youths, assisting soup kitchens and spending time at orphanages. For nearly a year, I coordinated (and participated in) monthly community service events and community building events in conjunction with managing the group’s Facebook page and email correspondence. Worked with refugee teenagers assisting them with school work and personal development."
       },
       {
+        "company":"Marist Mercy Care",
+        "title":"Volunteer",
+        "years":"2015 - 2019",
+        "description":"Key volunteer in an annual summer holiday program for underprivileged youth in Addo, Eastern Cape."
+      },
+      {
         "company":"Private",
         "title":"Tutor",
         "years":"2017",
         "description":"Tutored an individual Grade 12 level mathematics in order to boost their exam techniques and raise their self-confidence levels. Utilized several mathematics resources including past papers and textbook examples."
+      }
+    ],
+    "merit":[
+      {
+        "company":"University of the Witwatersrand",
+        "title":"Top Geography Student",
+        "years":"2017 and 2018",
+        "description": "Awarded the Dr Meshak Khosa award in 2017 (1st year) and School of Geography: Top Student Award in Year 2 in 2018 (2nd year)."
+      },
+      {
+        "company":"University of the Witwatersrand",
+        "title":"12 First-class certificates",
+        "years":"2017 to 2020",
+        "description": "First-class certificates for courses including but not limited to: algorthims, GIS, machine learning, computer graphics, geography, conservation biogeography, human geography, climate change, remote sensing, atmospheric sciences, coastal geomorphology, geospatial sciences and German."
+      },
+      {
+        "company":"University of Cape Town",
+        "title":"POSCO Asia Fellowship Award 2021",
+        "years":"2021",
+        "description": "A financial award bestowed for scholastic achievement."
+      },
+      {
+        "company":"University of Cape Town",
+        "title":"UCT Academic Merit Award",
+        "years":"2021",
+        "description": "A financial award bestowed for scholastic achievement."
+      },
+      {
+        "company":"Doug Banks Renewable Energy Vision",
+        "title":"Doug Banks Renewable Energy Vision Scholarship Finalist",
+        "years":"2021",
+        "description": "An MSc scholarship aimed at funding students with projects aimed at progressing the field of renewable energy and focusing on developing areas."
+      },
+      {
+        "company":"Sacred Heart College Marist Observatory",
+        "title":"Several Awards",
+        "years":"2016",
+        "description": "A non-exhaustive list includes: Best All-rounder, Outstanding Loyalty and Leadership, Excellence in Leadership, Full colors in academics and athletics and a silver Duke of Edinburgh Award."
       }
     ],
     "skills":[
@@ -132,6 +176,12 @@
         "url":"https://switch.org.za"
       },
       {
+        "title":"BSc Research Project",
+        "category":"BSc Research Project",
+        "image":"Project.png",
+        "url":"https://drive.google.com/drive/folders/1vS8SdvV7h8RwK0RAakll83uAoHE2hgua?usp=sharing"
+      },
+      {
         "title":"Space Evaders",
         "category":"A semester computer graphics course project hosted on GitHub",
         "image":"SpaceEvaders.jpg",
@@ -154,7 +204,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"We will always remember you for your strong leadership on and off the field, your commitment to justice and the ability to give those around you a voice",
+        "text":"We will always remember you for your strong leadership on and off the field, your commitment to justice and the ability to give those around you a voice.",
         "user":"Sacred Heart College Marist Observatory"
       },
       {
